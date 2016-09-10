@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Currently enrolled at CCM for Computer Science
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have experience programming in multiple languages mainly Java, and Javascript.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[iancmoreno@gmail.com](mailto:email@domain.com)
