@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Currently enrolled at CCM for Computer Science
+Currently enrolled at CCM for Computer Science.
 
 ### More Information
 
-I have experience programming in multiple languages mainly Java, and Javascript.
+I have experience programming in multiple languages mainly Java, and Javascript. I'm most interested in learning Full-Stack Web Development.
 
 ### Contact me
 
