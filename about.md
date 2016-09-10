@@ -8,7 +8,7 @@ Currently enrolled at CCM for Computer Science.
 
 ### More Information
 
-I have experience programming in multiple languages mainly Java, and Javascript. I'm most interested in learning Full-Stack Web Development.
+I have experience programming in multiple languages with a focus mainly on Java, and Javascript. I'm most interested in learning Full-Stack Web Development.
 
 ### Contact me
 
